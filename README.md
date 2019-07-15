@@ -8,5 +8,5 @@
 
 |  # | Title | Sulution | Acceptance |  Diffculty | Frequency |
 | --- | :-: | :-: | :-: | :-: | :-: |
-| 0001 | Two Sum | [Swift](https://github.com/AllanWell/LeetCode/Algorithms/0001.Two%20Sum) |  | Easy |  |
+| 0001 | Two Sum | [Swift](https://github.com/AllanWell/LeetCode/tree/master/Algorithms/0001.Two%20Sum) |  | Easy |  |
 
